@@ -7,3 +7,4 @@ im 415 mini portfolio
 - 
 ---
 
+![](http://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png)
